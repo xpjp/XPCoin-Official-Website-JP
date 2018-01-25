@@ -1,0 +1,48 @@
+XP ROADMAP
+Our roadmap gives you a look inside XPÅfs current development process what we are focused on and what we will aim for in the future.
+
+
+Q4 2017 Recap
+
+XP Faucet
+XP Ecosystem Map
+NON-TECH Whitepaper
+XP Web Wallet
+XP Webminer
+XP QT Core
+XP HARD FORK
+NEW WEBSITE
+
+
+FIRST QUARTER, 2018
+
+January - XP SUPPORT HELPDESK
+We know how frustrating it is to have a problem and not know where to Go for a solution. This is why in the first half of January we will be unveiling a fully-staffed support desk to handle all inquiries and help you enjoy the XP Ecosystem.
+
+January - XP GLOBAL ONBOARDING
+The XP team loves to see the economy spread around the world. we will be releasing a kit to allow local XP communities to be set up. Ultimately, these will be the foundation for the broader global ecosystem.
+
+January - FIRST XP GREENPAPER
+Many people have asked exactly how the Pentanode System will work. Sometime in January we will release the first greenpaper dealing with the technical aspects of the Pentanode System.
+
+February - XP GAMES OF CHANCE
+We know people like to have fun. We also know people like to help other people, so we will be donating 100% of the house proceeds to a charity chosen by the community at the end of every quarter.
+
+February - XP MARKET EXPANSION
+Keep watching for new products and an entirely new way to participate on XP.market. Soon, you will be able to list your own products and services on XP.market and accept payment in XP. this rollout will begin in February, though it may take several months to complete.
+
+February - XP INDIE DEVELOPMENT PORTAL
+Starting first with integration into XP.market, indie developers will be able to offer special promo items, DLCs and other game-related content.
+
+March - XP ECONOMY MODELING
+In order to make sure the XP Economy is as stable as possible, we are contracting an economist to verify our assumptions for supply and stability before releasing the Pentanode System.
+
+March - REVISED XP WHITEPAPER
+Following the in-depth economic modeling, a revised copy of the whitepaper will be released detailing the findings and adjusting the various node costs and technical details as development moves forward.
+
+
+Download First Quarter, 2018 Roadmap
+
+NOTE ON ROADMAPS: This is meant to be a living document, which means that it can (and will) change to suit the requirements and constraints of development. While we will always endeavor to meet the rough dates in this document, we would rather wait to release a perfect product than release something that isnÅft quite ready. Rest assured, we are constantly working hard and will release everything we can as quickly as possible.
+
+ALSO SUPER IMPORTANT! - Just because you donÅft see something on this roadmap doesnÅft mean itÅfs not being worked on.

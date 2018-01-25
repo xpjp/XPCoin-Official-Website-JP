@@ -1,0 +1,164 @@
+FAQ
+The following sections will help you find the answers you are looking for with links to guides that give further explanations.
+
+
+1 WHAT IS XP? AN INTRODUCTION
+
+Welcome to the world of XP.
+
+Since 2009, cryptocurrencies have redefined the meaning of wealth as we know it today.
+It is the dawning of a new day for finance, and XP is bridging the gap between the cryptocurrency world of 3-5 million users, and the 1.2 billion gamers worldwide through an innovative Proof-of-Stake reward system and an aggressive marketing and expansion plan. How does this work?
+
+The first thing to understand about cryptocurrency is that you are your own bank. Instead, your account is on a permanent ledger called a "blockchain." Your account is signed with a set of keys that only you have access to, but that you can use to approve and validate transactions. When you make a transaction, it is signed with your secret key and cannot be duplicated. With XP you have the ability to manage transactions quickly and easily on your desktop or android wallets and can experience the joy of near instantaneous transactions. XP can achieve this through the use of a Proof-of-Stake validation.
+
+To summarize:
+Everyone gets paid to keep the network secure
+Everyone shares the bank history, so its transparent
+The software is open source so you know itÅfs safe
+It is anonymous and anyone can open an account
+It is extremely fast; you can send money to anyone in the world within minutes
+It is and will always BE FREE
+It is Proof-of-Stake compared to Proof-of-Work
+
+
+2 PROOF OF STAKE VS PROOF OF Work
+
+Proof-of-Work was a fantastic innovation that formed the backbone of the original Bitcoin protocol. The idea is that by solving a computationally intensive math problem, one can prove the effort they've done to secure the protocol. The effort that is required to perform these computations contributes to a coin's scarcity and value.
+
+However, Proof-of-Work eventually becomes an extraordinarily expensive system. As time passes, the complexity of the problems involved becomes so great that ÅgminingÅh the last few possible Bitcoin will require the entire energy output of the sun. Proof of Stake solves this issue in a very elegant way. Rather than using computer power as a scarce resource to generate security, Proof of Stake uses the scarcity of the coin itself.
+
+A user may choose to "stake" his coins to generate the next block in the chain, and his chance of doing so is basically proportional to the weight of his coins. Proof-of-Stake is eco-friendly and efficient and avoids the vast waste of energy and hardware overhead of Proof-of-Work based networks.
+
+
+3 WHERE CAN I CHECK THE NETWORK WEIGHT?
+
+You can check the network weight by <b>hovering the pickaxes at the lower right section of your wallet.</b> Basically, the higher your balance, the higher your ÅgweightÅh. The bigger YOUR weight, better the chances to submit the next block!
+
+
+4 HOW OFTEN WOULD I RECEIVE A BLOCK REWARD?
+
+There's no predicting exactly how many stakes you will get. However, if you stake with more coins, you get more blocks and you more likely to find a reward. Staking is like a kind of lottery. Some days you'll get more than usual, some days less. It's just an estimate.
+
+
+5 WHERE CAN I GET MORE INFORMATION ON THE POS ALGORITHM?
+
+The XPCoin Proof-of-Stake algorithm is currently being reworked, but you can find general information that is found in nearly every POS coin algorithm. https://en.wikipedia.org/wiki/Proof-of-stake
+
+
+6 WHERE CAN I DOWNLOAD THE WALLET?
+
+Wallets for most operating systems can be found here: Downloads
+
+
+7 IS A BOOTSTRAP OR SNAPSHOT AVAILABLE?
+Yes, you can download them from <a>Downloads</a>
+
+
+8 HOW LONG DOES THE WALLET TAKE TO SYNC?
+
+The current blockchain is around 2 GB and actual speed to download the blockchain from scratch will vary on a number of factors including your Internet connection speed, the Internet connection speed of your connected peers and the total number of those peers. <b>Downloading the bootstrap is a good way to speed up your first syncing.</b>
+
+
+9 WHY WALLET IS NOT SYNCING?
+
+1. Make sure you have the latest mandatory update. 
+2. Make sure your Firewall or Anti Virus software do not block wallet connections. 
+3. Make sure you have peers. If itÅfs your first time give it some time. However, if itÅfs not your first time, you can delete the peers.dat file and restart your wallet to fetch another set of peers
+
+It takes time. However, you can help the wallet with giving it a list of nodes: To apply addnode, you have to find your XP.conf. It should be here: 
+
+Windows: %APPDATA%\XP\ 
+Linux: ~/.XP/ 
+Mac OSX: $HOME/Library/Application Support/XP/ 
+
+Then go to https://chainz.cryptoid.info/xp/#!network Click on "node list" Copy the whole list to the end of xp.conf. Sometimes OS hides file extensions, so check if thereÅfs an unknown file simply named ÅgXPÅh. If you still receiving problems, check your debug.log, look for errors and ask on XPCoin Discord #help <b>WHATEVER YOU DO, BACKUP YOUR WALLET.DAT!</b>
+
+
+10 HOW OFTEN DO I NEED TO BACKUP MY WALLET?
+
+Right after encrypting your wallet and also, I would suggest to backup your wallet every time you create a new address in your wallet. Without a new backup you wonÅft be able to retrieve the coins stored on the newly created address. You should also backup your wallet before upgrading to a new version.
+
+
+11 HOW DO I UPGRADE THE WALLET?
+
+Just replace the old binary with the new one. Before upgrading, make sure that you have the latest backup of your wallet.dat file.
+
+
+12 HOW DO I USE BOOTSTRAP OR SNAPSHOT?
+
+Once itÅfs downloaded, extract the contents of the ZIP file into the appropriate folder listed before for your operating system. 
+
+Windows: %APPDATA%\XP\ 
+Linux: ~/.XP/ 
+Mac OSX: $HOME/Library/Application Support/XP/
+
+Windows:
+Mac:
+Linux:
+
+
+13 HOW TO SEND XPCOINS?
+
+Sending coins is very straight forward. If you are sending these coins to a friend, exchange or business, then all you will need is their Receive address (known as a deposit address on exchanges). If your wallet is encrypted, which hopefully it is, you will also need to have your passphrase (encryption phrase) ready as this is required every time you want to send coins out of your wallet. Pay To: Enter the XPCoin address of your friend/exchange or business. Label: This makes it easier for you to remember who the address belongs to, so if you send to an exchange such as Novaexchange, simply type in the name. Amount: How much you want to send. Please note that if you are sending coins to an address, <b>make sure that you copy and paste the address.</b>
+
+
+14 HOW TO RECEIVE XP?
+
+By default, you will only have one Receive Address, so just right-click on it and select Copy Address. This prevents from trying to manually type it out and making errors. Now give that address to whoever wishes to pay you (or exchange).
+
+
+15 HOW TO OPEN YOUR WALLET FOR STAKING?
+
+If your wallet is encrypted, which I hope it is, you will need to enter your passphrase to the following option:
+Settings > Wallet Security > Unlock for mining
+
+
+16 WHAT IS THE TIME OF MATURAION?
+
+The amount of time needed for your coins to mature is 24 hours. Once the coins have matured, they will start staking.
+
+
+17 HOW TO COMBINE MULTIPLE STAKING INPUTS INTO A SINGLE INPUT?
+
+To do so, all you have to do is send all your coins to yourself. That way all your coins are in the same pot until next stake. (Like taking all your small pots and transferring them to a much bigger pot, until next stake where your bigger pot is splits in half and so on)
+
+
+18 HOW DO I STAKE MY COINS?
+
+That's very simple! First off, you need the wallet. Second, you need the synchronize your wallet (look at FAQ number 12 or tutorial on how to use bootstrap). Third, wait for your coins to mature (will take approx. 24 hour). Four, if and only if you have encrypted your wallet, you need to unlock it to allow yourself to stake.
+
+Once all three or four steps are done, you are ready to stake
+
+
+19 HOW DO I ADD NODES?
+
+This is very simple, open your configuration file:
+Windows: %appdata%\XP\
+Linux: ~/.XP
+Mac OS: ~/Library/Application Support/XP
+
+Then open this link:
+https://chainz.cryptoid.info/xp/#!network
+
+Press on "node list" besides node version, then copy and paste everything at the bottom of the config file. DO NOT DELETE ANYTHING
+
+Then restart wallet to allow it to read its new configurations and try to connect to the configured nodes.
+
+
+20 I WITHDREW FROM EXCHANGE BUT DON'T SEE MY COINS, WHERE ARE THEY?
+
+Well first thing first, to see if your coins are or are not in your wallet, you can look on the blockchain. Here's the URL:
+https://chainz.cryptoid.info/xp/
+
+If your coins are in your wallet, make sure its synced completely. If your coins are not in your wallet, go to your email and look for a confirmation email. If you did confirmed and still don't see your coins, or it shows reversed and still can't see your coins, that's an exchange issue and you will need to file a support ticket. December 17, 2017
+
+
+21 HOW DO WE MINE XP?
+
+XP is a Proof-Of-Stake coin, which means it can be mined only if you have coins in your wallet.
+But, the Core team offers a Monero to XP Web based pool using CoinHive JavaScript miner.
+
+
+22 WHAT DOES IT MESN "GENERATED BUT NOT ACCEPTED" WHEN STAKING/MINTING ?
+
+Generated but not accepted means that you found a block but somone submitted it before you, thus it was generated but rejected by the network since it can't have two identical blocks. It does not distrub your staking process.

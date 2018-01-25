@@ -1,0 +1,97 @@
+XP Community Questions
+
+Wow! What an amazing end to 2017!
+
+In the last quarter, Team XP has released a huge number of updates, moved to a new blockchain, brought inflation under control, and taken the cryptocurrency world by storm.
+
+We recognize that there are MANY questions that the XP community, as well as the broader global community of present and future cryptocurrency users, would like answered. In light of this, we will be creating a "Community Questions" section on our website which will be updated on a regular basis. The frequency of these updates will depend on the questions, but today we are happy to release the first set of answers direct from the XP Development Team for the XP Community. Please note that these answers are subject to change as situations evolve.
+
+
+1 How have XP coins been commercialized so far? (asked by the Korean XP Community)
+
+XP has already been integrated into one indie game (Forest Siege - https://loopylew113.itch.io/forestsiege) with more on the way. XP can also be used at XP.market for game codes and cards and will soon be able to be used for a variety of products and services. We are also in talks with various global parties about the integration of XP into various use cases ? news on this will be released once deals are finalized.
+
+
+2 Are there any target partnerships which was on the roadmap, or is there any potential partnership currently being discussed? (asked by the Korean XP Community)
+
+Due to the nature of partnership negotiations happening behind closed doors until projects are ready to be released, we are not putting them on the roadmap. However, we will keep the Global XP community updated on these matters as they become formal agreements. If any entity is interested in partnerships, they can contact us directly at marketing@xpcoin.io. Please note that this is not a support address and we will not be able to answer support related questions at this address.
+
+
+3 When will GitHub be updated? (asked by the Japanese XP Community)
+
+GitHub is being updated regularly. It can be seen at: https://github.com/eXperiencePoints/XPCoin
+
+
+4 Do you plan to post the developers' profiles? (asked by the Korean XP Community)
+
+XP has a very large and constantly evolving team and we don't believe that any individuals should be singled out and given more attention than any others; we see our hard-working Telegram and Discord mods as being just as important to our long-term success as our development team. While team members are free to reveal their identities and backgrounds, we are not making public reveals mandatory. Just like gamers and streamers, which many of us are, we identify far more with our online identities than we do with our identities in the offline world.
+
+
+5 What do you think about listing on Korean exchanges? (asked by the Korean XP Community)
+
+We would love to list on Korean exchanges and have reached out and are in talks with several exchanges. If there is any exchange which would like to list us, they can contact us directly at marketing@xpcoin.io. Please note that this is not a support address and we will not be able to answer support related questions at this address.
+
+
+6 What are the final goals of XP? (asked by the Korean XP Community)
+
+This is a FAR bigger answer than can fit in a little FAQ. We suggest you read the whitepaper (https://www.xpcoin.io/whitepaper.pdf) to get a glimpse of what we have planned. In short, we would like to be a coin that can serve the entire global community to reward experiences and milestones of every type.
+
+
+7 Do you plan to communicate more actively on Twitter? (asked by the Korean XP Community)
+
+Yes! We are actively putting together social media teams and will begin ramping up community engagement.
+
+
+8 Does Evangelo of XP have any relationship with Evangelo of 1cr coin? (asked by the Korean XP Community)
+
+Nope, none of us have even heard of 1cr coin.
+
+
+9 How can I get XP if I can't buy BTC?
+
+Currently, users wanting to get some free XP can visit the XP Faucet several times a day (faucet.xpcoin.io). In the future, with the introduction of Geonodes and the rest of the XP Pentanode System, it will be possible for users to get XP in a wide variety of ways. Keep watching for news!
+
+
+10 Why is there no hard cap on supply?
+
+There is no hard cap on supply because the supply needs to be able to grow to match the ecosystem needs. While there are future plans for coin burns with certain types of node creations, and moving-average coin burns for other node types, the system needs to be able to scale to meet the requirements of the ecosystem itself. This will all be explained in greater detail once the economic models are completed.
+
+
+11 How exactly does the ecosystem balance the limitless supply with coin burn?
+
+The coin supply isn't "limitlessÅh it simply doesn't have a hard cap. While this distinction may seem academic, it is important to note that the supply isn't like some coins which can be "createdÅh by their development team whenever needed (like Tether). It is also important to note that while the supply seems high compared to some cryptocurrencies, it is very small compared to other cryptocurrencies such as Dentacoin, which has a max supply of 8 Trillion units.
+
+
+12 Why are some of my stakes showing as "unconfirmed?Åh
+
+As XP is a Proof-of-Stake currency, your desktop wallet sometimes attempts to "stakeÅh a particular block in the blockchain; this is how you receive stake rewards. While there are many factors which determine how this process works, if a stake is "unconfirmedÅh it means that someone else was able to stake that block and have it confirmed to the blockchain before you.
+
+
+13 Does XP have or are they working on developing a partnership with Steam?
+
+While as a rule we do not comment on potential negotiations, we do not currently have a partnership with Steam. However, it is possible to buy Steam Codes from XP.market.
+
+
+14 Where can I buy XP?
+
+Please see the "Get XPÅh section of the website at www.xpcoin.io
+
+
+15 What's the current status with Binance/KuCoin/Cryptopia (or any other new exchange)? Any updates you can share with us for now?
+
+Almost all exchanges ask coin development teams to sign a non-disclosure agreement about not making announcements until the exchange itself announces. This prevents us from making public statements about any potential ongoing discussions with any exchange.
+
+
+16 What do you think about listing on Japanese exchanges? (asked by the Japanese XP Community)
+
+We would love to list on Japanese exchanges and have reached out and are in talks with several exchanges. If there is any exchange which would like to list us, they can contact us directly at marketing@xpcoin.io. Please note that this is not a support address and we will not be able to answer support related questions at this address.
+
+
+17 Is there going to be a coin burn? (asked by the Japanese XP Community)
+
+No, there are no plans for a single-time "coin burn.Åh As laid out in the white paper, there are plans for certain types of nodes which will involve coin burn mechanics, but there are no plans for a single lump sum burn.
+
+
+18 Any development of XP implemented game other than Forest Siege? (asked by the Japanese XP Community)
+
+Of course! There are many projects being worked on. Keep watching for more news!

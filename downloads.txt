@@ -1,0 +1,32 @@
+WALLETS FOR EVERYONE!
+
+Here are the direct links to pre-compiled wallets for your specific operating system. 
+Experience the joy of near instantaneous transactions and earn 120% interest on your coins through the use of a Proof-of-Stake validation.
+
+Hello XP Community! We have a brand new wallet release! Download the new XP Core Wallet version 1.1.0 today! 
+THIS IS MANDATORY TO UPGRADE!
+
+
+Windows Wallet
+Download the Windows Wallet (8MB)
+Download Bootstrap
+
+MacOS Wallet
+Download the MacOS Wallet (22.7MB)
+Download Bootstrap
+
+Linux Wallet
+Download the Ubuntu Wallet (18.5MB)
+Download Bootstrap 
+
+Android Wallet
+Download the Android Wallet
+
+Paper Wallet
+Paper Wallet Generator
+
+Access the GitHub
+XPCoin GitHub
+
+Need Help installing your wallet ?
+Check out our FAQ Section.
